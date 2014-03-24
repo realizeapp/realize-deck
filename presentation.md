@@ -17,7 +17,7 @@
 
 * Timely information.  The process for discovering that you have an illness often involves experiencing a symptom and looking it up online.
 * Quick connections to caregivers.  Preventative care can improve well-being and reduce costs when well-executed.
-* Personalized improvement plans. Recovery advice is usually one-size-fits all, and can't adapt to the individual.
+* Personalized insight. Recovery is usually one-size-fits all, and can't adapt to the individual.
 
 ---
 
@@ -32,6 +32,15 @@
 ## Product
 
 ### An open source, extensible, web platform that pulls in and analyzes health data
+
+* Plugin architecture.  Developers can write plugins that pull in data from trackers, analyze data, and display it to the user
+* Full API.  Enable mobile apps to leverage the capabilities of the platform
+* Easy-to-use dashboard.  Lets users to see their data at a glance
+* Powerful administrative tools.  Let hospitals and clinics manage patients
+
+---
+
+## Impacts
 
 * Help patients by providing timely analysis and insight
 * Help hospitals by enabling real-time patient monitoring and intervention
