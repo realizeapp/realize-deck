@@ -1,0 +1,6 @@
+python/
+*.log
+.idea/
+*~
+*.pyc
+Gemfile.lock
