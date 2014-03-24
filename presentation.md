@@ -24,16 +24,16 @@
 ## Solution
 
 * Patients increasingly use wearable devices to track their health
-* Preventative care improves patient well-being and hospitals are increasingly incentivized to favor it
-* Leverage patient health tracking data to figure out when preventative care should happen, and then connect them with doctors
+* Continuous data monitoring improves preventative care outcomes
+* Enable patients to share their wearable data to increase effective care
 
 ---
 
 ## Product
 
-### An open source, extensible, web platform that pulls in and analyzes health data
+### An open source, extensible web platform that aggregates and analyzes health data
 
-* Plugin architecture.  Developers can write plugins that pull in data from trackers, analyze data, and display it to the user
+* Plugin architecture.  Developers can write plugins that pull data from wearables, mobiles, and other web sites, analyze it, and display it to the user
 * Full API.  Enable mobile apps to leverage the capabilities of the platform
 * Easy-to-use dashboard.  Lets users to see their data at a glance
 * Powerful administrative tools.  Let hospitals and clinics manage patients
@@ -41,6 +41,8 @@
 ---
 
 ## Impacts
+
+      note: this would be a great place for numerical estimates
 
 * Help patients by providing timely analysis and insight
 * Help hospitals by enabling real-time patient monitoring and intervention
@@ -82,6 +84,9 @@
 * App store model
     * We take a 30% cut of plugins sold by developers on the plugin store
 
+* Data market model
+    * We take a 30% cut when companies buy stored data from individuals
+
 ---
 
 ## Team
@@ -96,9 +101,9 @@
 
 * Adam Laughlin, co-founder
     * http://www.linkedin.com/in/alaughlin
-    * Created the frontend for Scratch, an MIT-developed learning tool used by millions of students
-    * Organizer of Boston Quantified Self
-    * Web development at MIT Media Lab
+    * Front-end web developer for Scratch, an MIT learning tool used by millions of students
+    * Boston Quantified Self Organizer
+    * Co-founded Web Analysts Without Borders at Save the Children
     * B.A. in Psychology from Hope College
 
 ---
