@@ -3,7 +3,6 @@
 ### hello@realize.pe
 
 ---
-= data-background='images/vision_background.jpg'
 
 ## Vision
 
@@ -35,7 +34,7 @@
 
 * *Easy-to-use dashboard.*  Lets patients see their data at a glance
 * *Powerful administrative tools.*  Makes it easy for hospitals and clinics to manage patients
-* *Plugin architecture.*  Lets developers can write plugins that pull in data from trackers, analyze it, and display it to the user
+* *Plugin architecture.*  Lets developers write plugins that pull in data from trackers, analyze it, and display it to the user
 * *Full API.*  Enables mobile apps to leverage the capabilities of the platform
 
 ---
@@ -104,83 +103,17 @@
 
 ## Milestones
 
-* Finish prototype (April 2014)
 * Launch with our initial partners (April 2014)
 * Start our initial physician pilots (June 2014)
 * Start our first hospital pilot (August 2014)
-* Conclude hospital pilot (January 2015)
-* Roll out into first hospital (March 2015)
+* Conclude first hospital pilot (March 2015)
+* Roll out into first hospital (August 2015)
 
 ---
 
-## Financials
+## Projections
 
-<div class="chart-panel" data-x="[1402790400, 1410674400, 1418558400, 1426442400, 1434326400, 1442210400, 1450094400, 1457978400, 1465862400, 1473746400, 1481630400, 1489514400, 1497398400, 1505282400, 1513166400]" data-y="[1136, 3045, 7673, 9703, 12336, 390827, 470513, 552010, 636328, 725243, 821878, 1006833, 1215417, 1466485, 1795073]">
-    <div class="chart">
-        <svg style="height: 500px"></svg>
-    </div>
-</div>
+<img src="images/realize_users.png">
+<img src="images/realize_revenue.png">
 
 
-
-
-<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.4.3/d3.min.js" type="text/javascript"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/nvd3/1.1.14-beta/nv.d3.min.js" type="text/javascript"></script>
-
-<script>
-$(document).ready(function(){
-    $(".chart-panel").each(function(){
-        var that = this;
-        nv.addGraph(function() {
-            var chart = nv.models.lineChart()
-                    .margin({left: 200})  //Adjust chart margins to give the x-axis some breathing room.
-                    .useInteractiveGuideline(true)  //We want nice looking tooltips and a guideline!
-                    .transitionDuration(350)  //how fast do you want the lines to transition?
-                    .showLegend(false)       //Show the legend, allowing users to turn on/off line series.
-                    .showYAxis(false)
-                ;
-
-            chart.xAxis.axisLabel('Date').tickFormat(function(d) {
-                return d3.time.format("%m/%y")(new Date(d * 1000))
-            });
-
-            chart.yAxis     //Chart y-axis settings
-                .axisLabel('')
-                .tickFormat(d3.format('$d'));
-
-            var x = $(that).data("x");
-            var y = $(that).data("y");
-
-            var newData = [];
-            for(var i=0;i< x.length;i++){
-                newData.push({x: parseFloat(x[i]), y: parseFloat(y[i])})
-            }
-
-            var chartData = [
-                {
-                    values: newData,      //values - represents the array of {x,y} data points
-                    key: 'Metric' //key  - the name of the series.
-                },
-            ];
-            d3.select($(that).find(".chart svg")[0])    //Select the <svg> element you want to render the chart in.
-                .datum(chartData)         //Populate the <svg> element with chart data...
-                .call(chart);          //Finally, render the chart!
-
-            console.log("Charting done");
-            //Update the chart when window resizes.
-            nv.utils.windowResize(function() { chart.update() });
-            return chart;
-        });
-    });
-});
-</script>
-
-<style>
-.tick, .nv-axisMaxMin{
-font-size: 15px !important;
-}
-.nv-axislabel {
-font-size: 20px !important;
-}
-</style>
