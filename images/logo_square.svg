@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="800"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/vik/realize/deck/images/logo.png"
+   inkscape:export-xdpi="92.160004"
+   inkscape:export-ydpi="92.160004">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="365.06073"
+     inkscape:cy="361.79896"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-252.36218)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:200px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Simpsonfont;-inkscape-font-specification:Simpsonfont Bold"
+       transform="matrix(1.0466676,0,0,1,-179.25519,477.03715)"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="748.57141"
+           height="262.85715"
+           x="225.71428"
+           y="269.50504"
+           style="font-size:200px" /></flowRegion><flowPara
+         id="flowPara2991"
+         style="font-size:200px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">Realize</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2993"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Simpsonfont;-inkscape-font-specification:Simpsonfont Bold"><flowRegion
+         id="flowRegion2995"><rect
+           id="rect2997"
+           width="188.57143"
+           height="65.714287"
+           x="374.28571"
+           y="298.07648" /></flowRegion><flowPara
+         id="flowPara2999"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3001"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Simpsonfont;-inkscape-font-specification:Simpsonfont Bold"><flowRegion
+         id="flowRegion3003"><rect
+           id="rect3005"
+           width="1368.5714"
+           height="71.428574"
+           x="362.85715"
+           y="298.07648" /></flowRegion><flowPara
+         id="flowPara3007"></flowPara></flowRoot>    <path
+       d="m 399.52857,388.07645 c -63.01826,0 -114.28573,51.26856 -114.28573,114.28572 0,63.01828 51.26747,114.28566 114.28573,114.28566 63.0183,0 114.28574,-51.26738 114.28574,-114.28566 0,-63.01716 -51.26744,-114.28572 -114.28574,-114.28572 z m 0,182.85713 c -37.81028,0 -68.57142,-30.76113 -68.57142,-68.57141 0,-37.8103 30.76114,-68.57146 68.57142,-68.57146 37.8103,0 68.57146,30.76116 68.57146,68.57146 0,37.81028 -30.76116,68.57141 -68.57146,68.57141 z M 279.84741,414.4353 l -37.33029,-37.33256 32.32344,-32.32456 37.42171,37.42169 c -12.38515,9.01944 -23.32799,19.90172 -32.41486,32.23543 z M 252.71599,525.21929 H 200.1 v -45.71428 h 52.61599 c -1.15658,7.45257 -1.75887,15.08573 -1.75887,22.85716 0,7.77256 0.60229,15.40457 1.75887,22.85712 z M 377.24287,355.46273 v -53.10055 h 45.71428 v 53.28228 c -7.63428,-1.21372 -15.45715,-1.85371 -23.42858,-1.85371 -7.57369,0 -15.01485,0.57371 -22.2857,1.67198 z m 110.21257,27.21829 37.90285,-37.90284 32.32571,32.32456 -37.99197,37.99313 c -9.02059,-12.38514 -19.90172,-23.32913 -32.23659,-32.41485 z m -175.19204,239.84456 -37.42171,37.4218 -32.32341,-32.32473 37.33028,-37.33135 c 9.08572,12.33253 20.02856,23.21483 32.41484,32.23428 z m 110.69375,26.55427 v 53.28233 h -45.71428 v -53.10055 c 7.27085,1.09946 14.71201,1.67192 22.2857,1.67192 7.97143,0 15.7943,-0.6389 23.42858,-1.8537 z M 600.1,479.50501 v 45.71428 h -53.75884 c 1.15656,-7.45255 1.75885,-15.08456 1.75885,-22.85712 0,-7.77143 -0.60229,-15.40459 -1.75885,-22.85716 H 600.1 z m -80.40797,110.1234 37.99197,37.99321 -32.32571,32.32453 -37.90285,-37.90284 c 12.33371,-9.08574 23.216,-20.0286 32.23659,-32.4149 z"
+       id="brightness-4-icon"
+       inkscape:connector-curvature="0"
+       style="fill:#468966;fill-opacity:1" />
+  </g>
+</svg>
